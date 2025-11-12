@@ -1,1 +1,1 @@
-my site
+simple site
